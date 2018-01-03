@@ -71,7 +71,17 @@ body {
     ;
 }
 
-a:link,
+a[href^="tel:"] {
+  color: orange;
+  text-decoration: none;
+}
+a[href^="mailto:"] {
+  color: #0000EE;
+}
+a:link {
+    color: #036;
+    text-decoration: underline;	
+}
 a:visited {
     color: #036;
     text-decoration: none;
