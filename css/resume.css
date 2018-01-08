@@ -77,10 +77,11 @@ a[href^="tel:"] {
 }
 a[href^="mailto:"] {
   color: #0000EE;
+  text-decoration: none;
 }
 a:link {
     color: #036;
-    text-decoration: underline;	
+      text-decoration: none;
 }
 a:visited {
     color: #036;
@@ -272,7 +273,8 @@ h3 {
 
 .Description {
     padding-left: 40px;
-    padding-bottom: 7px;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
 
 .EmployerOrg .EmployerOrgName,
