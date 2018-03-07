@@ -340,7 +340,7 @@ h3 {
 }
 
 .ContactInfo {
-    height: 7em;
+    height: 5em;
 }
 
 .ContactInfo .NameHeader {
@@ -353,7 +353,7 @@ h3 {
 }
 
 .ContactInfo .PersonName {
-    font-size: 4em;
+    font-size: 2em;
     font-weight: normal;
     line-height: 1em;
     margin: 0;
@@ -363,8 +363,7 @@ h3 {
 .ContactInfo .Objective {
     clear: both;
     text-align: right;
-    font-size: 1.71428571428571em/* 24px / 14px */
-    ;
+    font-size: 1.71428571428571em/* 24px / 14px */;
     /*	letter-spacing: 0.125em;*/
     margin: 0;
     padding: 0;
