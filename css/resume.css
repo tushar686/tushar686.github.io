@@ -261,9 +261,7 @@ h3 {
 .Qualifications,
 .EducationHistory,
 .EmploymentHistory {
-    font-size: 1.5em/* 21px / 14px */
-    ;
-    margin: 0.5em 0em 0.25em 0em;
+    font-size: 1.5em/* 21px / 14px */;
     border-bottom: solid 1px silver;
 }
 
@@ -308,7 +306,6 @@ h3 {
 
 .EmployerOrg {
     border-top: 1px solid #F1F1F1;
-    margin-top: 1em;
     padding: 1em 0 0 0;
 }
 
