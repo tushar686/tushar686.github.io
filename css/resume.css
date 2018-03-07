@@ -195,7 +195,7 @@ th,
 input,
 select,
 textarea {
-    font-family: "Computer Modern Serif", cmu_serifroman, Palatino, Georgia, Garamond, "Times New Roman", Times, serif;
+    font-family: "Arial";
 }
 
 body {
@@ -282,7 +282,6 @@ h3 {
 .Degree .Name {
     font-size: 1.28571428571429em/* 18px / 14px */
     ;
-    font-weight: bold;
 }
 
 .ClientUrl {}
@@ -386,7 +385,6 @@ h3 {
 .ExecutiveSummary {
     padding: 2em 5em 0 5em;
     border-top: solid 1px silver;
-    font-style: italic;
     line-height: 1.5em;
     text-align: justify;
 }
