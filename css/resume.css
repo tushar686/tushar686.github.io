@@ -459,7 +459,7 @@ ul.Qualifications ul {
 
 .ProjectHistory .Project .projectType,
 .organizationType {
-    font-style: italic;
+
 }
 
 .EmployerDates,
@@ -468,7 +468,6 @@ ul.Qualifications ul {
 .DegreeDate {
     color: #666;
     float: right;
-    font-style: italic;
 }
 
 .EmployerDates,
